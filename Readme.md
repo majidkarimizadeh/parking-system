@@ -12,4 +12,4 @@
 3) The vehicles can be car and truck.
 4) The Truck are not allowed to park in the second floor.
 
-(Watch on YouTube)](https://youtu.be/zPePqfsYzls)
+[Watch on YouTube](https://youtu.be/zPePqfsYzls)
